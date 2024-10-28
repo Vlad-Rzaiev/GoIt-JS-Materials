@@ -11,4 +11,3 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Oper
 https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets (корисні скорочення, наприклад якщо ввести clg + tab, то створеться console.log()). <br>
 https://marketplace.visualstudio.com/items?itemName=jrebocho.vscode-random (розширення для генерування рандомних даних). <br>
 https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments (розширення для створення читабельних коментарів різного кольору). <br>
-GitHub - Olexiy-repin/js-112 at module-01-lesson-01 <br>
