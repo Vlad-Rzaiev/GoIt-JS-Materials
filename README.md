@@ -11,3 +11,10 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Oper
 https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets (корисні скорочення, наприклад якщо ввести clg + tab, то створеться console.log()). <br>
 https://marketplace.visualstudio.com/items?itemName=jrebocho.vscode-random (розширення для генерування рандомних даних). <br>
 https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments (розширення для створення читабельних коментарів різного кольору). <br>
+
+# Заняття 30.10.2024
+
+Посилання на репозиторій: <br>
+https://github.com/Olexiy-repin/js-112/tree/module-01-lesson-02 <br>
+Таблиця юнікодів: <br>
+https://en.wikipedia.org/wiki/List_of_Unicode_characters#Latin_script <br>
