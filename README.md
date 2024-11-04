@@ -18,3 +18,17 @@ https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments (
 https://github.com/Olexiy-repin/js-112/tree/module-01-lesson-02 <br>
 Таблиця юнікодів: <br>
 https://en.wikipedia.org/wiki/List_of_Unicode_characters#Latin_script <br>
+
+Шпаргалка по методам рядків:<br>
+slice() -- створює копію частини або всього рядка.<br>
+toLowerCase()/toUpperCase() -- приводить рядок до нижнього/верхнього регістра відповідно.<br>
+includes() -- перевіряє наявність підрядка в рядку.<br>
+startsWith()/endsWith() -- перевіряє чи починаться/закінчується рядок зазначеним підрядком.<br>
+indexOf() - шукає перше входження рядка в підрядок і повертає його індекс (або -1).<br>
+trim() -- видаляє початкові і кінцеві пробіли з рядка.<br>
+Цикл for:<br>
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for <br>
+Цикл for...of:<br>
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of <br>
+Корисні методи рядків<br>
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods
