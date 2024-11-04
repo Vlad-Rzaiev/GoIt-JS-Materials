@@ -32,3 +32,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of <br>
 Корисні методи рядків<br>
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods
+
+# Заняття 04.11.2024
+
+Посилання на репозиторій: <br>
+https://github.com/Olexiy-repin/js-112/tree/module-02-lesson-01 <br>
