@@ -37,3 +37,7 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_str
 
 Посилання на репозиторій: <br>
 https://github.com/Olexiy-repin/js-112/tree/module-02-lesson-01 <br>
+
+# Заняття 06.11.2024
+
+https://github.com/Olexiy-repin/js-112/tree/module-02-lesson-02<br>
