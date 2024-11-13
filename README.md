@@ -19,7 +19,7 @@ https://github.com/Olexiy-repin/js-112/tree/module-01-lesson-02 <br>
 Таблиця юнікодів: <br>
 https://en.wikipedia.org/wiki/List_of_Unicode_characters#Latin_script <br>
 
-Шпаргалка по методам рядків:<br>
+# Шпаргалка по методам рядків:<br>
 slice() -- створює копію частини або всього рядка.<br>
 toLowerCase()/toUpperCase() -- приводить рядок до нижнього/верхнього регістра відповідно.<br>
 includes() -- перевіряє наявність підрядка в рядку.<br>
@@ -46,7 +46,7 @@ https://github.com/Olexiy-repin/js-112/tree/module-02-lesson-02<br>
 
 https://github.com/Olexiy-repin/js-112/tree/module-03-lesson-01 <br>
 
-Шпаргалка по методам масивів:<br>
+# Шпаргалка по методам масивів:<br>
 split/join -- перетворює рядок на масив і назад.<br>
 push() -- додає елементи до кінця,<br>
 pop() -- видаляє елемент з кінця,<br>
