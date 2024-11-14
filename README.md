@@ -94,6 +94,8 @@ const fruits = [ 'banana', 'apple', 'orange', 'watermelon', 'apple', 'orange', '
 const randomFruit = fruits[Math.floor(Math.random() * fruits.length)];<br>
 console.log(randomFruit); // поверне рандомний фрукт із масиву<br>
 
+# Заняття 13.11.2024
+
 Посилання на репозиторій:<br>
 https://github.com/Olexiy-repin/js-112/tree/module-03-lesson-02<br>
 Посилання на сервіс для імітації Call Stack:<br>
