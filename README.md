@@ -93,3 +93,8 @@ console.log(food); // поверне ["apple", "banana", "orange", "poultry", "b
 const fruits = [ 'banana', 'apple', 'orange', 'watermelon', 'apple', 'orange', 'grape', 'apple', ];<br>
 const randomFruit = fruits[Math.floor(Math.random() * fruits.length)];<br>
 console.log(randomFruit); // поверне рандомний фрукт із масиву<br>
+
+Посилання на репозиторій:<br>
+https://github.com/Olexiy-repin/js-112/tree/module-03-lesson-02<br>
+Посилання на сервіс для імітації Call Stack:<br>
+http://latentflip.com/loupe/<br>
