@@ -100,3 +100,8 @@ console.log(randomFruit); // поверне рандомний фрукт із �
 https://github.com/Olexiy-repin/js-112/tree/module-03-lesson-02<br>
 Посилання на сервіс для імітації Call Stack:<br>
 http://latentflip.com/loupe/<br>
+
+# Заняття 18.11.2024
+
+Посилання на репозиторій:<br>
+https://github.com/Olexiy-repin/js-112/tree/module-04-lesson-01<br>
