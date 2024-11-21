@@ -105,3 +105,8 @@ http://latentflip.com/loupe/<br>
 
 Посилання на репозиторій:<br>
 https://github.com/Olexiy-repin/js-112/tree/module-04-lesson-01<br>
+
+# Заняття 20.11.2024
+
+Посилання на репозиторій:
+https://github.com/Olexiy-repin/js-112/tree/module-04-lesson-02
