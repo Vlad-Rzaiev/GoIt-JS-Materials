@@ -108,5 +108,19 @@ https://github.com/Olexiy-repin/js-112/tree/module-04-lesson-01<br>
 
 # Заняття 20.11.2024
 
-Посилання на репозиторій:
-https://github.com/Olexiy-repin/js-112/tree/module-04-lesson-02
+Посилання на репозиторій:<br>
+https://github.com/Olexiy-repin/js-112/tree/module-04-lesson-02<br>
+
+# Заняття 25.11.2024
+
+Посилання на репозиторій:<br>
+https://github.com/Olexiy-repin/js-112/tree/module-05-lesson-01<br>
+
+Специфікація, тут описано все, що є в JavaScript:br>
+https://ecma-international.org/publications-and-standards/standards/ecma-262/br>
+
+Чернетка з інфорацією, що має зʼявитися в новій версій JS:br>
+https://tc39.es/ecma262/br>
+
+Сервіс MDN, де описані різноманітні функції, методи, механізми, які є в JS:br>
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Referencebr>
