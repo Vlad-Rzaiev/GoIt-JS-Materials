@@ -152,3 +152,8 @@ https://prnt.sc/AjfEWZPdig1I<br>
 https://github.com/Olexiy-repin/js-112/tree/module-05-lesson-02<br>
 Таблиця Unicode:<br>
 https://symbl.cc/en/unicode-table/#basic-latin<br>
+
+# Заняття 02.12.2024
+
+Посилання на репозиторій:<br>
+https://github.com/Olexiy-repin/js-112/tree/module-06-lesson-01<br>
