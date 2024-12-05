@@ -157,3 +157,8 @@ https://symbl.cc/en/unicode-table/#basic-latin<br>
 
 Посилання на репозиторій:<br>
 https://github.com/Olexiy-repin/js-112/tree/module-06-lesson-01<br>
+
+# Заняття 04.12.2024
+
+Посилання на репозиторій:<br>
+https://github.com/Olexiy-repin/js-112/tree/module-06-lesson-02<br>
