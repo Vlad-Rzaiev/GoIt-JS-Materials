@@ -169,3 +169,10 @@ https://github.com/Olexiy-repin/js-112/tree/module-06-lesson-02<br>
 https://github.com/Olexiy-repin/js-112/tree/module-07-lesson-01<br>
 Посилання на онлайн генератор DOM дерева:<br>
 https://software.hixie.ch/utilities/js/live-dom-viewer/<br>
+
+# Заняття 11.12.2024
+
+Посилання на репозиторій із створенням та додаванням елементів в DOM:<br>
+https://github.com/Olexiy-repin/js-112/tree/module-07-lesson-01<br>
+Посилання на репозиторій з подіями:<br>
+https://github.com/Olexiy-repin/js-112/tree/module-07-lesson-02<br>
