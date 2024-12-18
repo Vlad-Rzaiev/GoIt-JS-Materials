@@ -185,3 +185,8 @@ https://github.com/Olexiy-repin/js-112/tree/module-08-lesson-01<br>
 https://github.com/electerious/basicLightbox/tree/master<br>
 CDN сервір де знаходять файли бібліотеки basicLightBox:<br>
 https://cdnjs.com/libraries/basicLightbox<br>
+
+# Заняття 18.12.2024
+
+Посилання на репозиторій:<br>
+https://github.com/Olexiy-repin/js-112/tree/module-08-lesson-02<br>
