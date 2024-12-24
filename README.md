@@ -195,3 +195,12 @@ https://github.com/Olexiy-repin/js-112/tree/module-08-lesson-02<br>
 
 Посилання на репозиторій:<br>
 https://github.com/Olexiy-repin/js-112/tree/module-09-lesson-01<br>
+
+Збірщики – це інструменти, які об’єднують різні файли вашого проєкту в один (або кілька) для більш ефективного завантаження у браузер.<br>
+Уявіть, що у вас є багато файлів JavaScript, CSS, зображень тощо. Збірщик оптимізує їх, видаляє зайве та мінімізує для швидкої роботи вашого додатка в продакшені.<br>
+Одними з найпопулярніших збірщиків є Webpack https://webpack.js.org/ , Vite https://vite.dev/ , Parcel https://parceljs.org/.<br>
+Відео для правильного налаштування збірки → відео по збірщику Vite https://www.loom.com/share/d64b49e49f12451285417eb63ede04c1 .<br>
+
+Документація JSON https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON <br>
+Вебсховище https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API <br>
+Модулі ES6 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules <br>
