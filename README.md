@@ -190,3 +190,8 @@ https://cdnjs.com/libraries/basicLightbox<br>
 
 Посилання на репозиторій:<br>
 https://github.com/Olexiy-repin/js-112/tree/module-08-lesson-02<br>
+
+# Заняття 23.12.2024
+
+Посилання на репозиторій:<br>
+https://github.com/Olexiy-repin/js-112/tree/module-09-lesson-01<br>
