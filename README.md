@@ -204,3 +204,22 @@ https://github.com/Olexiy-repin/js-112/tree/module-09-lesson-01<br>
 Документація JSON https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON <br>
 Вебсховище https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API <br>
 Модулі ES6 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules <br>
+
+# Заняття 27.12.2024
+
+Посилання на репозиторій першої частини лекції: <br>
+https://github.com/Olexiy-repin/js-112/tree/module-09-lesson-02 <br>
+Посилання на репозиторій із збірником vite: <br>
+https://github.com/Olexiy-repin/js-112-vite-test <br>
+Репозиторій збірки vanilla-app-template: <br>
+https://github.com/goitacademy/vanilla-app-template/ <br>
+Репозиторій бібліотеки SimpleLightbox: <br>
+https://github.com/andreknieriem/simplelightbox <br>
+Сайт бібліотеки SimpleLightbox: <br>
+https://simplelightbox.js.org/ <br>
+Сайт сервісу npm: <br>
+https://www.npmjs.com/ <br>
+Репозиторій пакету nvm (додатково для можливості зміни версій ноди): <br>
+https://github.com/nvm-sh/nvm <br>
+Термінал, яки я користуюсь на маку, це Oh My Zsh: <br>
+https://ohmyz.sh/ <br>
