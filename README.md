@@ -224,9 +224,14 @@ https://github.com/nvm-sh/nvm <br>
 Термінал, яки я користуюсь на маку, це Oh My Zsh: <br>
 https://ohmyz.sh/ <br>
 
-# Заняття 07.01.2025
+# Заняття 06.01.2025
 
 Посилання на репозиторій: <br>
 https://github.com/Olexiy-repin/js-112/tree/module-10-lesson-01 <br>
 Сервіс по імітації event loop: <br>
 http://latentflip.com/loupe/ <br>
+
+# Заняття 08.01.2025
+
+Посилання на репозиторій: <br>
+https://github.com/Olexiy-repin/js-112/tree/module-10-lesson-02 <br>
