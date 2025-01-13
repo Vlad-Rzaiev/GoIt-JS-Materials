@@ -235,3 +235,12 @@ http://latentflip.com/loupe/ <br>
 
 Посилання на репозиторій: <br>
 https://github.com/Olexiy-repin/js-112/tree/module-10-lesson-02 <br>
+
+# Заняття 13.01.2025
+
+Посилання на репозиторій: <br>
+https://github.com/Olexiy-repin/js-112/tree/module-11-lesson-01 <br>
+Сервіс unsplash: <br>
+https://unsplash.com/ <br>
+Сервіс з фейковими даними: <br>
+https://jsonplaceholder.typicode.com/ <br>
