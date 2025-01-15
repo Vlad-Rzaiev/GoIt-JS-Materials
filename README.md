@@ -244,3 +244,10 @@ https://github.com/Olexiy-repin/js-112/tree/module-11-lesson-01 <br>
 https://unsplash.com/ <br>
 Сервіс з фейковими даними: <br>
 https://jsonplaceholder.typicode.com/ <br>
+
+# Заняття 15.01.2025
+
+Посилання на репозиторій:
+https://github.com/Olexiy-repin/js-112/tree/module-11-lesson-02
+Посилання на сервіс mockAPI:
+https://mockapi.io/
