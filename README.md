@@ -247,7 +247,14 @@ https://jsonplaceholder.typicode.com/ <br>
 
 # Заняття 15.01.2025
 
-Посилання на репозиторій:
-https://github.com/Olexiy-repin/js-112/tree/module-11-lesson-02
-Посилання на сервіс mockAPI:
-https://mockapi.io/
+Посилання на репозиторій: <br>
+https://github.com/Olexiy-repin/js-112/tree/module-11-lesson-02 <br>
+Посилання на сервіс mockAPI: <br>
+https://mockapi.io/ <br>
+
+# Заняття 20.01.2025
+
+Посилання на репозиторій: <br>
+https://github.com/Olexiy-repin/js-112/tree/module-12-lesson-01 <br>
+Посилання на документація axios: <br>
+https://axios-http.com/uk/docs/intro <br>
