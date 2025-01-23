@@ -258,3 +258,13 @@ https://mockapi.io/ <br>
 https://github.com/Olexiy-repin/js-112/tree/module-12-lesson-01 <br>
 Посилання на документація axios: <br>
 https://axios-http.com/uk/docs/intro <br>
+
+# Заняття 22.01.2025
+
+Посилання на репозиторій: <br>
+https://github.com/Olexiy-repin/js-112/tree/module-12-lesson-02 <br>
+Корисні ресурси: <br>
+MDN: https://developer.mozilla.org/en-US/ <br>
+Специфікація по HTML: https://html.spec.whatwg.org/ <br>
+Специфікація по JS: https://ecma-international.org/publications-and-standards/standards/ecma-262/ <br>
+Специфікація по DOM: https://dom.spec.whatwg.org/ <br>
